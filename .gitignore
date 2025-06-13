@@ -1,0 +1,5 @@
+.venv
+
+/dataset
+
+/results/processed_gene_expression_data.csv
